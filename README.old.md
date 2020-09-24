@@ -13,5 +13,5 @@ redux dev tools chrome extension
 
 # commands
 npx create-react-app . //to load basic react resources in current folder
-
+npm start //to start react app
 
